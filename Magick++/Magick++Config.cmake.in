@@ -1,0 +1,3 @@
+@PACKAGE_INIT@
+
+include("@CMAKE_INSTALL_PREFIX@/lib/cmake/Magick++/Magick++Targets.cmake")
